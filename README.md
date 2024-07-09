@@ -1,1 +1,21 @@
-# Hello_Embed
+# Embedded Introduction Project
+
+## Basic
+
+- [ ] STM32F723 + [SEGGER RTT](https://github.com/adfernandes/segger-rtt)
+- [ ] STM32F723 + [FreeRTOS](https://github.com/FreeRTOS/FreeRTOS-Kernel) + [LibOpenCM3](https://github.com/libopencm3/libopencm3) + [littlefs](https://github.com/littlefs-project/littlefs) + [cJSON](https://github.com/DaveGamble/cJSON)
+- [ ] STM32F723 + [FreeRTOS+POSIX](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-POSIX)
+- [ ] STM32F723 + [FreeRTOS+FAT](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT)
+- [ ] STM32F723 + [NuttX](https://github.com/apache/nuttx)
+- [ ] STM32F723 + [TinyUSB](https://github.com/hathach/tinyusb)
+- [ ] STM32F723 + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
+- [ ] STM32F723 + [FreeRTOS+FAT](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
+- [ ] STM32F723 + [NuttX](https://github.com/apache/nuttx) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
+
+## IoT
+
+- [ ] ESP32 + [LVGL](https://github.com/lvgl/lvgl)
+- [ ] ESP32 + [FreeRTOS-Plus-TCP](https://github.com/FreeRTOS/FreeRTOS-Plus-TCP)
+- [ ] ESP32 + [MQTT-C](https://github.com/LiamBindle/MQTT-C)
+- [ ] ESP32 + [Matter](https://github.com/project-chip/connectedhomeip)
+- [ ] ESP32 + [Thread](https://github.com/openthread/openthread)
