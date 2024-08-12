@@ -25,6 +25,12 @@
 - [ ] ESP32 + [NuttX](https://github.com/apache/nuttx) + [MQTT-C](https://github.com/LiamBindle/MQTT-C) + [HTTP Server](#)
 - [ ] ESP32 + [Matter](https://github.com/project-chip/connectedhomeip)
 - [ ] ESP32 + [Thread](https://github.com/openthread/openthread)
+- [ ] Build an ESP32 application to integrate all into one demo project.
+  - display information on the panel (LVGL)
+  - display/control status in both wired and wireless modes (HID, MQTT, Matter, OpenThread)
+  - streaming/controlling live video/audio in both wired and wireless modes (lwIP, TCP/UDP, RTSP/Socket, HTTP Server/cJSON and UVC)
+  - recording live video/audio onto an SD card in TS, MP4, WAV, and MP3 formats and playing it back from the SD card via both wired and wireless modes (littlefs/FSFAT, MSC, video/audio format)
+  - OTA/In-Application-Programming (bootloader, wear leveling, ...)
 
 ## Embedded Linux
 
