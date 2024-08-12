@@ -12,8 +12,8 @@
 - [ ] STM32F723 + [FreeRTOS+FAT](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
 - [ ] STM32F723 + [NuttX](https://github.com/apache/nuttx) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
 - [ ] Build a STM32F723 application to integrate all into one demo project.
-  - multiple USB devices (COM, HID, MSC, UVC, DFU)
   - In-Application-Programming (COM, HID, MSC, DFU)
+  - Camera Demo (UVC)
 
 ## IoT
 
@@ -32,7 +32,7 @@
   - display information on the panel (LVGL)
   - display/control status in both wired and wireless modes (HID, MQTT, Matter, OpenThread)
   - streaming/controlling live video/audio in both wired and wireless modes (lwIP, TCP/UDP, RTSP/Socket, HTTP Server/cJSON and UVC)
-  - recording live video/audio onto an SD card in TS, MP4, WAV, and MP3 formats and playing it back from the SD card via both wired and wireless modes (littlefs/FSFAT, MSC, video/audio format)
+  - recording live video/audio onto an SD card and playing it back from the SD card via both wired and wireless modes (MJEP/AVI, PCM/WAV, MP3, littlefs/FSFAT, MSC)
   - OTA/In-Application-Programming (bootloader, wear leveling, ...)
 
 ## Embedded Linux
