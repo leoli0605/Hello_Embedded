@@ -34,7 +34,9 @@
   - streaming/controlling live video/audio in both wired and wireless modes (lwIP, TCP/UDP, RTSP/Socket, HTTP Server/cJSON and UVC)
   - recording live video/audio onto an SD card and playing it back from the SD card via both wired and wireless modes (MJEP/AVI, PCM/WAV, MP3, littlefs/FSFAT, MSC)
   - OTA/In-Application-Programming (bootloader, wear leveling, ...)
+- [ ] ESP32 + [YOLO](#)
 
 ## Embedded Linux
 
 - [ ] Raspberry Pi + [buildroot](https://github.com/buildroot/buildroot) + [HTTP Server](#) + [RTSP](#) + [WebSocket](#) + [WebRTC](#)
+- [ ] Raspberry Pi Zero W + [BME280](https://shop.playrobot.com/products/raspberry-pi-ved0063) + [MQTT](#)
