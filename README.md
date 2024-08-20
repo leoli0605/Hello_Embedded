@@ -12,7 +12,7 @@
 - [ ] STM32F723 + [FreeRTOS+FAT](https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
 - [ ] STM32F723 + [NuttX](https://github.com/apache/nuttx) + [CherryUSB](https://github.com/cherry-embedded/CherryUSB)
 - [ ] Build a STM32F723 application to integrate all into one demo project.
-  - In-Application-Programming (COM, HID, MSC, DFU)
+  - In-Application-Programming with Secure Boot (COM, HID, MSC, DFU)
   - Camera Demo (UVC)
 
 ## IoT
