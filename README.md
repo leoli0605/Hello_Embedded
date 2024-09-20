@@ -26,8 +26,7 @@
 - [ ] ESP32 + [lwIP](https://github.com/lwip-tcpip/lwip) + [MQTT-C](https://github.com/LiamBindle/MQTT-C)
 - [ ] ESP32 + [FreeRTOS-Plus-TCP](https://github.com/FreeRTOS/FreeRTOS-Plus-TCP) + [MQTT-C](https://github.com/LiamBindle/MQTT-C)
 - [ ] ESP32 + [NuttX](https://github.com/apache/nuttx) + [MQTT-C](https://github.com/LiamBindle/MQTT-C) + [HTTP Server](#)
-- [ ] ESP32 + [Matter](https://github.com/project-chip/connectedhomeip)
-- [ ] ESP32 + [Thread](https://github.com/openthread/openthread)
+- [ ] ESP32 + [Thread](https://github.com/openthread/openthread) + [Matter](https://github.com/project-chip/connectedhomeip)
 - [ ] Build an ESP32 application to integrate all into one demo project.
   - display information on the panel (LVGL)
   - display/control status in both wired and wireless modes (HID, MQTT, Matter, OpenThread)
